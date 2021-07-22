@@ -1,0 +1,145 @@
+a{
+    color:  white;
+    font-size: 1rem;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: normal;
+}
+h1{
+    margin: 70px auto 0 auto;
+    font-family:Otomanopee One ;
+    font-size: 4rem;
+    color: #050505;
+}
+h2{
+    
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #032b2b;
+}
+h3{
+    font-family: Otomanopee;
+    color:  black;
+}
+h4{
+    font-family: Montserrat;
+}
+p{
+    font-size: 1rem;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #195858; 
+    padding: 5% 2% 2% 20%;
+    line-height: 1.5rem;
+    text-align: left;
+}
+
+#title{
+    background-color:#E1E5EA ;
+    
+}
+
+/* Navigation Bar */
+.navbar-nav{
+    padding: 1rem;
+}
+.navbar-brand{
+    font-family: Otomanopee One;
+}
+/* title image */
+.title-image{
+    width: 50%;
+    margin: 5% 20% 0 0;
+}
+/* my image */
+.my-image{
+    transform: rotate(270deg);
+    width: 50%;
+}
+
+.copyright{
+    padding: 10% 0 0 0;
+}
+/* About */
+#about{
+    background-color:#E1E5EA ;
+    padding: 3%;
+}
+.heading{
+    font-size: 2rem;
+    padding-left: 8%;
+}
+.about-text{
+    font-size: 1 rem;
+    padding: 7% 3% 0 0;
+    text-align: left;
+}
+.card-img-top{
+    width:50%;
+    padding: 5% 0 0 20%;
+}
+.card-body{
+    width:60%%;
+}
+.card-title{
+    padding: 0 0 0 0;
+}
+#reads{
+    padding:3%;
+    background-color:#A7BBC7;
+}
+/***************** CLASS STYLING ************************/
+.bottom-cloud{
+    width: 15%;
+    padding: 15% 0 15%;
+}
+.bottom-container{
+    background-color: #DA7F8F;
+    padding: 2% 0 3%;
+}
+.font{
+    font-weight: normal;
+}
+.middle-container{
+    background-color:#E1E5EA;
+    padding:1% 0 5%;
+}.skills{
+    background-color: #A7BBC7;
+    padding: 2% 0 5%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+/*********************** ID STYLING **********************/
+#comp-image{
+    width: 30%;
+    float: right;
+    padding-left: 5%;
+    
+}
+#my-image{
+    width: 20%;
+}
+#phy-image{
+    width: 30%;
+    float: left;
+    padding-right: 30px;
+}
+
+
+
+
+
+
+
